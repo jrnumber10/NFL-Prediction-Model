@@ -92,4 +92,19 @@ For all dependencies, see requirements.txt
 - **Output**: Predictions of upcoming game scores.
 - **Processing**: Data is cleaned, transformed, and used in regression models to generate predictions.
 
+---
+
+## Notes  
+- Ensure the virtual environment is activated before running the notebook.  
+- The dataset (`master_dataset.xlsx`) can be updated if you want to test new data.  
+- The model may require updates as NFL trends evolve over time.  
+
+---
+
+## Author  
+John Reed  
+📧 Contact: Johnreedkeenagh@gmail.com  
+🔗 GitHub: Jrnumber10  
+
+
 

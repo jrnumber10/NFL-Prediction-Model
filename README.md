@@ -96,7 +96,7 @@ For all dependencies, see requirements.txt
 
 ## Notes  
 - Ensure the virtual environment is activated before running the notebook.  
-- The dataset (`master_dataset.xlsx`) can be updated if you want to test new data.  
+- The dataset (`NFLNFL.xlsx`) can be updated if you want to test new data.  
 - The model may require updates as NFL trends evolve over time.  
 
 ---
